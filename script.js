@@ -50,26 +50,6 @@ var instacraftNotes = [
         </div>
       </div>
     `
-  },
-  {
-    title: "Explorer",
-    date: "06/09/2026",
-    content: `
-      <div class="post-card">
-        <div class="post-header">
-          <div class="post-avatar"></div>
-          <div>
-            <strong>instacraft</strong>
-            <div>June 9</div>
-          </div>
-        </div>
-        <img class="post-image" src="https://preview.redd.it/the-ruins-of-the-jungle-v0-xybc9vwedz691.jpg?width=1080&crop=smart&auto=webp" alt="Explorer image">
-        <div class="post-caption">
-          <strong>Explore textures</strong>
-          <p>Experiment with brick, glass, and plant life to make your world feel lived-in and dreamy.</p>
-        </div>
-      </div>
-    `
   }
 ]
 
