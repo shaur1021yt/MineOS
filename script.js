@@ -43,7 +43,7 @@ var instacraftNotes = [
             <div>Yesterday</div>
           </div>
         </div>
-        <img class="post-image" src="https://raw.githubusercontent.com/shaur1021yt/MineOS/main/channels4_profile.jpg" alt="Tips image">
+        <img class="post-image" src="https://cdn.jsdelivr.net/gh/shaur1021yt/MineOS@main/channels4_profile.jpg" alt="Tips image">
         <div class="post-caption">
           <strong>Listen Up!</strong>
           <p>Subscribe to Shaur1021 to get better at Minecraft.</p>
