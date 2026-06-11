@@ -1,0 +1,30 @@
+{
+  "id": "77255c32-6d89-439d-b2ff-c18e71fad9bd",
+  "state": "current",
+  "plan": "nf_team_dev",
+  "name": "webos-shaur1021yt-1781205701",
+  "custom_domain": null,
+  "domain_aliases": [],
+  "url": "http://webos-shaur1021yt-1781205701.netlify.app",
+  "ssl_url": "https://webos-shaur1021yt-1781205701.netlify.app",
+  "admin_url": "https://app.netlify.com/projects/webos-shaur1021yt-1781205701",
+  "screenshot_url": null,
+  "created_at": "2026-06-11T19:21:43.303Z",
+  "updated_at": "2026-06-11T19:21:43.303Z",
+  "user_id": "683c8a528942b9031802dee6",
+  "ssl": false,
+  "force_ssl": null,
+  "managed_dns": true,
+  "deploy_url": "http://6a2b0ac70ce3e12d4f189809--webos-shaur1021yt-1781205701.netlify.app",
+  "account_name": "shaur11002211’s team",
+  "account_slug": "shaur11002211",
+  "deploy_hook": null,
+  "capabilities": {
+    "cdn_tier": "reg",
+    "deploy_diagnostics": false,
+    "ai_usage_enabled": true,
+    "ai_gateway_disabled": true,
+    "dev_server_enabled": true
+  },
+  "id_domain": "77255c32-6d89-439d-b2ff-c18e71fad9bd.netlify.app"
+}
