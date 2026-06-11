@@ -23,10 +23,10 @@ var instacraftNotes = [
             <div>Today</div>
           </div>
         </div>
-        <img class="post-image" src="https://images.unsplash.com/photo-1517632298128-903b9a7b2f12?auto=format&fit=crop&w=800&q=80" alt="Craft feed image">
+        <img class="post-image" src="https://www.google.com/imgres?q=minecraft%20mansion&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaWn90ls3B3E%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaWn90ls3B3E&docid=A4-Njp8z4iPyEM&tbnid=A4WHHxdmAQ-T8M&vet=12ahUKEwih89mvioCVAxVkBTQIHTq9B9QQnPAOegQIGhAB..i&w=1280&h=720&hcb=2&ved=2ahUKEwih89mvioCVAxVkBTQIHTq9B9QQnPAOegQIGhAB" alt="Craft feed image">
         <div class="post-caption">
-          <strong>Listen Up!</strong>
-          <p>Subscribe to Shaur1021 to get better at Minecraft.</p>
+          <strong>Built a Mansion</strong>
+          <p>Time flies when you're having fun!</p>
         </div>
       </div>
     `
@@ -43,10 +43,10 @@ var instacraftNotes = [
             <div>Yesterday</div>
           </div>
         </div>
-        <img class="post-image" src="https://images.unsplash.com/photo-1526403228508-79f2455e77d6?auto=format&fit=crop&w=800&q=80" alt="Tips image">
+        <img class="post-image" src="./channels4_profile.jpg" alt="Tips image">
         <div class="post-caption">
-          <strong>Crafting secrets</strong>
-          <p>Keep your layouts simple and your colors bold for a stylish, Instagram-ready world.</p>
+          <strong>Listen Up!</strong>
+          <p>Subscribe to Shaur1021 to get better at Minecraft.</p>
         </div>
       </div>
     `
@@ -63,7 +63,7 @@ var instacraftNotes = [
             <div>June 9</div>
           </div>
         </div>
-        <img class="post-image" src="https://images.unsplash.com/photo-1491448213570-38f74d455bcd?auto=format&fit=crop&w=800&q=80" alt="Explorer image">
+        <img class="post-image" src="https://www.google.com/imgres?q=jungle%20minecraft%20with%20ruins&imgurl=https%3A%2F%2Fpreview.redd.it%2Fthe-ruins-of-the-jungle-v0-xybc9vwedz691.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D0568a76f6477f94eb28c8f460783aeba136dd455&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FMinecraftbuilds%2Fcomments%2Fvhe3n2%2Fthe_ruins_of_the_jungle%2F&docid=YGmUSriUUkEf9M&tbnid=v0eRumE1K9llEM&vet=12ahUKEwiV56qBi4CVAxVFODQIHVo1Ov0QnPAOegQIGxAB..i&w=1080&h=1080&hcb=2&ved=2ahUKEwiV56qBi4CVAxVFODQIHVo1Ov0QnPAOegQIGxAB" alt="Explorer image">
         <div class="post-caption">
           <strong>Explore textures</strong>
           <p>Experiment with brick, glass, and plant life to make your world feel lived-in and dreamy.</p>
